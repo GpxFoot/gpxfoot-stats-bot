@@ -1,23 +1,23 @@
 🎬 GPXFOOT DAILY REPORT
 
-Abonnés : 767
-Évolution depuis hier : +23
+Abonnés : 824
+Évolution depuis hier : +57
 
-Vues totales : 595 760
-Évolution depuis hier : +42 977
+Vues totales : 630 843
+Évolution depuis hier : +35 083
 
 Dernier Short : “Titre indisponible”
-Vues : 760
+Vues : 1 600
 Progression depuis hier : indisponible pour le premier relevé
 
 Vitesse actuelle :
-+42 977 vues gagnées sur la chaîne en 24 h
++35 083 vues gagnées sur la chaîne en 24 h
 
 Diagnostic :
 Très forte journée. La chaîne bénéficie d'une distribution puissante.
 
 Dernier Short :
-https://www.youtube.com/shorts/57hZtBbqwvI
+https://www.youtube.com/shorts/wWG_j8EWDfI
 
 Relevé :
-2026-08-06T14:23:52+02:00
+2026-08-07T10:36:56+02:00
